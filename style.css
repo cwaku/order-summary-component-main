@@ -83,3 +83,12 @@ h1 {
   background-color: #fff;
   color: hsl(224, 23%, 55%);
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
