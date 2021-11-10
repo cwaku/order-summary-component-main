@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: hsl(225, 100%, 94%);
+}
+
+.container {
+  background-image: url(images/illustration-hero.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  margin: 30px 20px;
+  padding-top: 43%;
+  border-radius: 30px;
+  background-color: #fff;
+}
+
+h1 {
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+  text-align: center;
+}
+
+.info {
+  line-height: 1.5em;
+  margin: 0 15%;
+  color: hsl(224, 23%, 55%);
+}
+
+.plan {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5%;
+  padding: 26px 0;
+  border-radius: 15px;
+  background-color: hsl(225, 100%, 98%);
+}
+
+.plan a {
+  text-decoration: underline;
+  color: hsl(245, 75%, 52%);
+}
+
+.price {
+  display: flex;
+  flex-direction: column;
+}
+
+.duration {
+  color: hsl(223, 47%, 23%);
+}
+
+.amount {
+  color: hsl(224, 23%, 55%);
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+  margin: 0 5%;
+}
+
+.proceed {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 30px;
+  border-radius: 15px;
+  border: none;
+  background-color: hsl(245, 75%, 52%);
+  color: hsl(225, 100%, 94%);
+}
+
+.cancel {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 10px;
+  padding: 30px;
+  border-radius: 15px;
+  border: none;
+  background-color: #fff;
+  color: hsl(224, 23%, 55%);
+}
