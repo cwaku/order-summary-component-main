@@ -37,7 +37,7 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn: [Ricky Mormor](www.linkedin.com/in/ricky-mormor)
+- LinkedIn: [Ricky Mormor](https://www.linkedin.com/in/ricky-mormor)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [@rickymormor](https://www.instagram.com/rickymormor/)
 - GitHub: [@cwaku](https://github.com/cwaku)
