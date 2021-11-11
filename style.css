@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   font-weight: 500;
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   background-color: hsl(225, 100%, 94%);
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
@@ -16,7 +16,7 @@ body {
   padding-top: 43%;
   border-radius: 30px;
   background-color: #fff;
-  box-shadow: 16px 30px 15px -3px rgba(0,0,0,0.1);
+  box-shadow: 16px 30px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -42,9 +42,19 @@ h1 {
   background-color: hsl(225, 100%, 98%);
 }
 
+.plan:hover {
+  background-color: hsl(225, 100%, 94%);
+}
+
 .plan a {
   text-decoration: underline;
   color: hsl(245, 75%, 52%);
+  cursor: pointer;
+}
+
+.plan a:hover {
+  color: hsl(223, 47%, 23%);
+  text-decoration: none;
 }
 
 .price {
@@ -75,7 +85,13 @@ h1 {
   border: none;
   background-color: hsl(245, 75%, 52%);
   color: hsl(225, 100%, 94%);
-  box-shadow: 1px 10px 10px -2px rgba(0,0,0,0.1);
+  box-shadow: 1px 10px 10px -2px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.proceed:hover {
+  background-color: hsl(224, 23%, 55%);
+  text-decoration: none;
 }
 
 .cancel {
@@ -87,6 +103,7 @@ h1 {
   border: none;
   background-color: #fff;
   color: hsl(224, 23%, 55%);
+  cursor: pointer;
 }
 
 .attribution {
@@ -119,7 +136,7 @@ h1 {
   .proceed {
     padding: 20px;
   }
-  
+
   .cancel {
     padding: 20px;
   }
