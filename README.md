@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-using-css-and-html--NFrdBTro)
 - Live Site URL: [Github page](https://cwaku.github.io/order-summary-component-main/)
 
 ### Built with
@@ -38,6 +38,6 @@ Users should be able to:
 ## Author
 
 - LinkedIn: [Ricky Mormor](https://www.linkedin.com/in/ricky-mormor)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@cwaku](https://www.frontendmentor.io/profile/cwaku)
 - Instagram - [@rickymormor](https://www.instagram.com/rickymormor/)
 - GitHub: [@cwaku](https://github.com/cwaku)
