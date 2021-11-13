@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./orderSumary.png)
 
 ### Links
 
